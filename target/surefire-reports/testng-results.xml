@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-14T22:11:11 PST" name="Surefire suite" finished-at="2020-01-14T22:11:11 PST" duration-ms="39">
+    <groups>
+    </groups>
+    <test started-at="2020-01-14T22:11:11 PST" name="Surefire test" finished-at="2020-01-14T22:11:11 PST" duration-ms="39">
+      <class name="MyPackage1.SecondTest">
+        <test-method signature="EnterDetails()[pri:0, instance:MyPackage1.SecondTest@4ae82894]" started-at="2020-01-14T22:11:11 PST" name="EnterDetails" finished-at="2020-01-14T22:11:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+        <test-method signature="EnterName()[pri:0, instance:MyPackage1.SecondTest@4ae82894]" started-at="2020-01-14T22:11:11 PST" name="EnterName" finished-at="2020-01-14T22:11:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterName -->
+      </class> <!-- MyPackage1.SecondTest -->
+      <class name="MyPackage1.ThirdTest">
+        <test-method signature="Submit()[pri:0, instance:MyPackage1.ThirdTest@543788f3]" started-at="2020-01-14T22:11:11 PST" name="Submit" finished-at="2020-01-14T22:11:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+        <test-method signature="EnterPassword()[pri:0, instance:MyPackage1.ThirdTest@543788f3]" started-at="2020-01-14T22:11:11 PST" name="EnterPassword" finished-at="2020-01-14T22:11:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterPassword -->
+      </class> <!-- MyPackage1.ThirdTest -->
+      <class name="MyPackage1.FirstTest">
+        <test-method signature="BrowserLaunch()[pri:0, instance:MyPackage1.FirstTest@4516af24]" started-at="2020-01-14T22:11:11 PST" name="BrowserLaunch" finished-at="2020-01-14T22:11:11 PST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method signature="Login()[pri:0, instance:MyPackage1.FirstTest@4516af24]" started-at="2020-01-14T22:11:11 PST" name="Login" finished-at="2020-01-14T22:11:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- MyPackage1.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
